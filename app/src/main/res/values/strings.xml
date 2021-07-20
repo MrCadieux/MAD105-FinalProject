@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CadieuxMeeting</string>
+    <string name="userNameLabel">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="userNameHint">Enter a username</string>
+    <string name="passwordHint">Enter a password</string>
+    <string name="loginButtonTxt">Login</string>
+    <string name="errorMessageLogin">Invalid Login.  Please retry</string>
+    <string name="errorMessagePassword">Invalid Password.  Please retry</string>
+
+</resources>
